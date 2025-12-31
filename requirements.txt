@@ -1,0 +1,25 @@
+# Multi-Energy Microgrid (MEMG) System - Section 1.1
+# Python 3.8+ Required
+# 
+# Core Scientific Computing
+numpy>=1.20.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Data Visualization (Optional, for analysis)
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Deep Learning (For future DRL sections)
+torch>=1.9.0
+
+# Optimization (For baseline comparisons - Optional)
+pyomo>=6.0.0  # Mathematical modeling
+
+# Development Tools
+pytest>=6.2.0  # Testing
+black>=21.0.0  # Code formatting
+flake8>=3.9.0  # Linting
+
+# Documentation
+sphinx>=4.0.0  # Optional
